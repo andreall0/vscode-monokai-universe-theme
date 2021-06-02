@@ -1,10 +1,20 @@
 {
   "name": "monokai-universe",
   "displayName": "Monokai Universe",
-  "description": "simple description",
+  "description": "This is a beautiful theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.56.0"
+  },
+  "icon": "icons/icon-theme.png",
+  "author": {
+    "name": "Andrea Allora",
+    "email": "andrea.allora.frontend@gmail.com",
+    "url": "https://www.linkedin.com/in/andrea-allora/"
+  },
+  "repository": {
+    "url": "https://github.com/andreall0/vscode-monokai-universe-theme",
+    "type": "git"
   },
   "categories": [
     "Themes"

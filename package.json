@@ -1,0 +1,21 @@
+{
+  "name": "monokai-universe",
+  "displayName": "Monokai Universe",
+  "description": "simple description",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Universe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Universe-color-theme.json"
+      }
+    ]
+  }
+}

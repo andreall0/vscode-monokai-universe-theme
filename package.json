@@ -6,7 +6,8 @@
   "engines": {
     "vscode": "^1.56.0"
   },
-  "icon": "icons/icon-theme.png",
+  "publisher": "andreall0",
+  "icon": "assets/logo.png",
   "author": {
     "name": "Andrea Allora",
     "email": "andrea.allora.frontend@gmail.com",

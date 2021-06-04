@@ -2,7 +2,7 @@
   "name": "monokai-universe",
   "displayName": "Monokai Universe",
   "description": "This is a beautiful theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.56.0"
   },
@@ -28,5 +28,8 @@
         "path": "./themes/Monokai Universe-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "build": "vsce package"
   }
 }
